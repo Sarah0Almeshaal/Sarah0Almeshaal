@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Spring Boot and Laravel frameworks**
-
 - 📫 How to reach me **s_almeshaal@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
